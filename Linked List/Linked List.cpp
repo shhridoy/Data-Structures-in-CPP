@@ -43,3 +43,8 @@ int main()
     print();
     return 0;
 }
+
+/* OUTPUT:
+ Current Linked List: 6->
+ Current Linked List: 6-> 7-> 
+ */
