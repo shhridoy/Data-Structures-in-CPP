@@ -48,3 +48,23 @@ int main()
     cout<<"\nAfter Insertion: \n";
     traverse(array, N+1);
 }
+
+/** OUTPUT:
+Before Insertion:
+Array[0] = 10
+Array[1] = 20
+Array[2] = 30
+Array[3] = 40
+Array[4] = 50
+
+Enter Position: 4
+Enter Value: 88
+
+After Insertion:
+Array[0] = 10
+Array[1] = 20
+Array[2] = 30
+Array[3] = 40
+Array[4] = 88
+Array[5] = 50
+**/
