@@ -33,3 +33,11 @@ int main() {
 
    return 0;
 }
+
+/** OUTPUT:
+Enter the size of the array: 5
+Enter the values: 3 5 6 7 8
+Enter the elements to be searched: 8
+
+Number found at the location: 5
+**/
