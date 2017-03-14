@@ -1,7 +1,6 @@
 /**
 Algorithm For Insertion Operation in Array:
     Step 1: TEMP = N-1
-    POS = POS - 1
     Step 2:  Repeat Step 3 While TEMP ≥ POS
     Step 3:  A [TEMP+1] = A [TEMP]
              TEMP = TEMP – 1
