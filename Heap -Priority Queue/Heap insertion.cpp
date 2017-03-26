@@ -4,7 +4,7 @@ using namespace std;
 const int size = 5; ///size of array
 int arr[size];
 int count;
-void Adjust_from_Bottom(int s, int e);
+void Adjust_from_Bottom();
 
 void Insert(int value){
     if(count < size-1){
@@ -17,7 +17,7 @@ void Insert(int value){
     }
 }
 
-void Adjust_from_Bottom(int startIndex, int endIndex){
+void Adjust_from_Bottom(){
     int item = arr[count]; /// rear element of array
     int i = count; ///rear index number
     while(i/2 >= 1){
