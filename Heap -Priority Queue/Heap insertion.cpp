@@ -10,7 +10,7 @@ void Insert(int value){
     if(count < size-1){
         count++;
         arr[count] = value;
-        Adjust_from_Bottom(count, 1);
+        Adjust_from_Bottom();
     }
     else{
         cout<<"Heap is full"<<endl;
