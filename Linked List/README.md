@@ -30,3 +30,5 @@ A doubly linked list is a list that has two references, one to the next node and
 <img src="https://github.com/shhridoy/Data-Structures-in-CPP/blob/master/Array%20List/Pic/doubly.bmp"?raw="true" >
 </p>
 Another important type of a linked list is called a circular linked list where last node of the list points back to the first node (or the head) of the list. 
+
+Collected From: https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html
