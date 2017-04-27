@@ -29,4 +29,4 @@ link, unlink, and deallocate, but is not limited in size. Here we will implement
 </p>
 
 ### Collected From 
-www.studytonigh.com/
+www.studytonight.com/
