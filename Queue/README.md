@@ -36,3 +36,6 @@ In approach [B] we remove the element from head position and then move head to t
 In approach [A] there is an overhead of shifting the elements one position forward every time we remove the first element. 
 In approach [B] there is no such overhead, but whener we move head one position ahead, after removal of first element, 
 the size on Queue is reduced by one space each time.
+
+### Collected From
+www.studytonight.com/
