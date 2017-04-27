@@ -8,12 +8,10 @@ the only element that can be removed is the element that was at the top of the s
 </p>
 
 ### Basic features of Stack
-
-    * Stack is an ordered list of similar data type.
-    * Stack is a LIFO structure. (Last in First out).
-    * push() function is used to insert new elements into the Stack and pop() is used to delete an element from the stack. 
-    Both insertion and deletion are allowed at only one end of Stack called Top.
-    * Stack is said to be in Overflow state when it is completely full and is said to be in Underflow state if it is completely empty.
+* Stack is an ordered list of similar data type.
+* Stack is a LIFO structure. (Last in First out).
+* push() function is used to insert new elements into the Stack and pop() is used to delete an element from the stack. Both insertion and deletion are allowed at only one end of Stack called Top.
+* Stack is said to be in Overflow state when it is completely full and is said to be in Underflow state if it is completely empty.
 
 ### Applications of Stack
 The simplest application of a stack is to reverse a word. You push a given word to stack - 
@@ -29,3 +27,6 @@ link, unlink, and deallocate, but is not limited in size. Here we will implement
 <p align="center">
 <img src="http://www.studytonight.com/data-structures/images/stack-implementation.png"?raw="true">
 </p>
+
+### Collected From 
+www.studytonigh.com/
