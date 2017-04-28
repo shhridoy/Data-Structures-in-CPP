@@ -90,3 +90,14 @@ int main()
 
     return 0;
 }
+
+/* OUtput;
+In-Order BST:
+3 15 18 30 35 50 64 75 77 87 99
+
+Pre-Order BST:
+50 15 3 30 18 35 75 64 87 77 99
+
+Post-Order BST:
+3 18 35 30 15 64 77 99 87 75 50
+*/
