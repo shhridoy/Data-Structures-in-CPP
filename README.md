@@ -6,6 +6,7 @@ https://github.com/shhridoy/Data-Structures-in-Java
 
 # Introduction to Data Structures
 Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. 
+
 Data Structures is about rendering data elements in terms of some relationship, for better organization and storage. 
 For example, we have data player's name "Shakib" and age 28. Here "Tamim" is of String data type and 28 is of integer data type.
 
@@ -25,6 +26,7 @@ Then we also have some complex Data Structures, which are used to store large an
     Stack, Queue etc.
 
 All these data structures allow us to perform different operations on data. We select these data structures based on which type of operation is required.
+
 <p align="center">
 <img src="http://www.studytonight.com/data-structures/images/introduction-to-data-structures.gif"?raw="true">
 </p>
